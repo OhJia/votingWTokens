@@ -6,5 +6,5 @@ Web dapp that allows users to buy tokens with Ether (using Metamask) then vote o
 
 Built with truffle, parity and webpack.
 
-Smart contract deployed to [Ropsten testnet](https://ropsten.etherscan.io/address/0xd423a044d1eb724507ddb524b7aabbba9d24c877): 0xd423a044d1eb724507ddb524b7aabbba9d24c877
+Smart contract deployed to [Ropsten testnet](https://ropsten.etherscan.io/address/0xc0837421a098b34d87c34937658ad9f120948c23): 0xc0837421a098b34d87c34937658ad9f120948c23
 
